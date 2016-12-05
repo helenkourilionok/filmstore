@@ -15,7 +15,7 @@ import org.springframework.jdbc.datasource.DriverManagerDataSource;
 import org.springframework.orm.hibernate4.HibernateTransactionManager;
 import org.springframework.orm.hibernate4.LocalSessionFactoryBean;
 import org.springframework.transaction.annotation.EnableTransactionManagement;
-
+//http://websystique.com/springmvc/spring-4-mvc-and-hibernate4-integration-example-using-annotations/
 
 @Configuration
 @EnableTransactionManagement
